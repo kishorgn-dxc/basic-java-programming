@@ -9,6 +9,7 @@ public class Demo_01 {
 		for(int c=0;c<10;c++) {
 			System.out.println(c);
 		}
+		System.out.println("Logic ends here - by Kishor");
 		System.out.println("Thank your for using the program");
 
 	}
